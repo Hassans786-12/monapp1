@@ -1,0 +1,40 @@
+.mainContainer
+{
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.green
+{
+    background-color: green;
+    height: 40px;
+    width: 75%;
+}
+
+.blue
+{
+    background-color: blue
+    height: 40px;
+    width: 25%;
+}
+
+.red
+{
+    background-color: red
+    height: 160px;
+    width: 35%;
+     display: flex;
+}
+.subcontainer{
+    height: 140px;
+    width: 65%;
+    display: flex: wrap;
+}
+.orange{
+    background-color: orange
+    height: 80px;
+    width; 
+}
+.cyan{
+    background
+}

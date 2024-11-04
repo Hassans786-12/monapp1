@@ -1,0 +1,33 @@
+caption
+{
+    font-size: medium center;
+}
+
+    thead
+
+{
+    font-weight: bold;
+}
+table{
+    border-collapse: collapse;
+}
+
+    td , tr, th
+{
+    border: 1px solid black;
+   padding: 20px
+}
+tfoot
+{
+    border: 1px solid black
+}
+
+
+span
+{
+    color: green;
+}
+div
+{
+color: red
+}
